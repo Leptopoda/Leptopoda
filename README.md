@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Bierverkostung](https://gitlab.rimikis.de/Leptopoda/bierverkostung)
-- 🌱 I’m currently learning [Flutter](flutter.dev)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev)
 - 🏫 I’m studying Mechatronics and IT at the [KIT](https://www.kit.edu) 
 - 📫 How to reach me: [rimikis.nikolas at gmail.com](mailto:rimikis.nikolas+development.github@gmail.com)
 - 🔐 Encryption: [PGP key](https://www.rimikis.de/nikolas/OpenPGP.txt)
