@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 - GitLab: [@Leptopoda07](https://gitlab.com/Leptopoda07/)
 - Private GitLab [@Leptopoda](https://gitlab.rimikis.de/Leptopoda/)
+
+[![Nikolas Rimikis GitHub stats](https://github-readme-stats.vercel.app/api?username=Leptopoda&theme=tokyonight)](https://nikolas.rimikis.de)
+
